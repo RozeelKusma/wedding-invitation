@@ -4,9 +4,11 @@ import "./globals.css";
 
 const allura = Allura({
   weight: "400",
+  subsets: ["latin"],
 });
 const poppins = Poppins({
   weight: "400",
+  subsets: ["latin"],
 });
 
 const geistMono = Geist_Mono({
