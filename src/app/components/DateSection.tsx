@@ -17,16 +17,16 @@ const DateSection = () => {
         </div>
         <div className="font-allura text-2xl md:text-6xl">Magh 4, 2081</div>
         <CountdownTimer />
-        <div className="flex gap-5 flex-wrap">
+        <div className="flex justify-center gap-5 flex-wrap">
           <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center">
             <div className="text-2xl md:text-4xl font-allura">
               Wedding Ceremony
             </div>
             <div className="">Magh 4, 2081 @ 8:00 AM</div>
             <div className="">At</div>
-            <div className="">Dhumbarahi-4, Kathmandu</div>
+            <div className="">Sunrise Banquet, Basundhara</div>
             <a
-              href="https://maps.app.goo.gl/UUi25h2rfuzCYjVh8"
+              href="https://maps.app.goo.gl/UoezSZD1v6wo2NtJA"
               className="px-5 py-2 bg-[#ffe5e5] rounded-md"
               target="_blank"
             >

@@ -5,7 +5,7 @@ import hearts from "@/app/components/hearts.png";
 
 const Hero = () => {
   return (
-    <div className="text-[#B70B9D] bg-[#f1cfe9] h-screen max-w-screen flex flex-col items-center font-allura">
+    <div className="text-[#B70B9D] bg-[#f1cfe9] max-w-screen flex flex-col items-center font-allura">
       <Image src={ganesh} alt="ganesh" height={200} />
       <div className={`flex flex-col items-center text-5xl md:text-8xl`}>
         <div className="">Our Wedding</div>

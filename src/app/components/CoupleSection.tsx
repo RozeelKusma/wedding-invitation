@@ -11,7 +11,7 @@ const CoupleSection = () => {
           Celebrate with us as we unite in love. Your presence will make this
           day truly special.
         </div>
-        <div className="flex gap-4 flex-wrap">
+        <div className="flex w-full justify-center gap-4 flex-wrap">
           <div className="flex flex-col items-center justify-center">
             <Image src={ganesh} alt="ganesh" width={400} />
             <div className="md:text-2xl text-xl">Sagar Malla Thakuri</div>
