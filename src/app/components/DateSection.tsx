@@ -18,7 +18,7 @@ const DateSection = () => {
         <div className="font-allura text-2xl md:text-6xl">Magh 4, 2081</div>
         <CountdownTimer />
         <div className="flex justify-center gap-5 flex-wrap">
-          <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center">
+          <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
             <div className="text-2xl md:text-4xl font-allura">
               Wedding Ceremony
             </div>
@@ -33,7 +33,7 @@ const DateSection = () => {
               Open Map
             </a>
           </div>
-          <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center">
+          <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
             <div className="text-2xl md:text-4xl font-allura">Party</div>
             <div className="">Magh 6, 2081 @ 2:00 PM</div>
             <div className="">At</div>

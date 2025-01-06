@@ -10,7 +10,7 @@ const Hero = () => {
       <div className={`flex flex-col items-center text-5xl md:text-8xl`}>
         <div className="">Our Wedding</div>
         <Image src={hearts} alt="hearts" className="max-h-[500px] w-auto" />
-        <div className="">2081/10/04</div>
+        <div className="pb-4">2081/10/04</div>
       </div>
     </div>
   );
