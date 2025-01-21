@@ -22,9 +22,9 @@ const DateSection = () => {
             <div className="text-2xl md:text-4xl font-allura">
               Wedding Ceremony
             </div>
-            <div className="">Magh 4, 2081 @ 8:00 AM</div>
+            <div className="">Magh 25, 2081 @ 8:00 AM</div>
             <div className="">At</div>
-            <div className="">Sunrise Banquet, Basundhara</div>
+            <div className="">Hotel Bhadgaon, Bhaktapur</div>
             <a
               href="https://maps.app.goo.gl/UoezSZD1v6wo2NtJA"
               className="px-5 py-2 bg-[#ffe5e5] rounded-md"
@@ -35,9 +35,9 @@ const DateSection = () => {
           </div>
           <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
             <div className="text-2xl md:text-4xl font-allura">Party</div>
-            <div className="">Magh 6, 2081 @ 2:00 PM</div>
+            <div className="">Magh 27, 2081 @ 2:00 PM</div>
             <div className="">At</div>
-            <div className="">Bhaktapur Banquet, Bhaktapur</div>
+            <div className="">Megha Event Venue, Kalanki</div>
             <a
               href="https://maps.app.goo.gl/5yozpSkBrMUYCqnJ8"
               className="px-5 py-2 bg-[#ffe5e5] rounded-md"
